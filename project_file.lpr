@@ -17,7 +17,7 @@ uses
 
 begin
   RequireDerivedFormResource := True;
-  Application.Title := 'Dowsing Trainer v1.0';
+  Application.Title := 'Dowsing Trainer v1.1';
   Application.Scaled := True;
   Application.Initialize;
   Application.CreateForm(TForm1, Form1);
