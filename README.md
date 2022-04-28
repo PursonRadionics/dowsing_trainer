@@ -1,6 +1,6 @@
 # Free Dowsing Trainer
 
-<img src="screenshot 1.0.png" />
+<img src="screenshot 1.1.png" />
 
 The easiest way to practice your dowsing skills and inproving your psychic prowess.
 
